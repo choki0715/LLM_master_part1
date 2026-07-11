@@ -28,3 +28,8 @@ wandb/
 
 # 로컬 전용 (푸시 금지)
 CLAUDE.md
+
+# 환경 변수 / 시크릿
+.env
+.env.*
+!.env.example
