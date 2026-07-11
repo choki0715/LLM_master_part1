@@ -25,3 +25,6 @@ wandb/
 .DS_Store
 .vscode/
 .idea/
+
+# 로컬 전용 (푸시 금지)
+CLAUDE.md
